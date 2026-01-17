@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "portfolio": "Portafolio",
+    "about": "Acerca de",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "home": {
+    "title": "Transforma Tu Negocio en Éxito Digital",
+    "subtitle": "Asignaciones de Portafolio • Proyectos de Computadora • Investigación PhD • Preparación de Entrevistas • Marketing Digital • Desarrollo Web",
+    "cta": "Solicitar Consulta Gratuita"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Servicios profesionales para ayudarte a tener éxito",
+    "viewDetails": "Ver Detalles"
+  },
+  "footer": {
+    "description": "Servicios profesionales para asignaciones de portafolio, proyectos de computadora, investigación PhD, preparación de entrevistas, marketing digital y desarrollo web.",
+    "quickLinks": "Enlaces Rápidos",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "copyright": "Todos los derechos reservados."
+  },
+  "about": {
+    "title": "Acerca de Nosotros",
+    "subtitle": "Tu socio de confianza para servicios profesionales"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Ponte en contacto con nosotros",
+    "email": "Correo Electrónico",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo Electrónico",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje"
+    }
+  }
+}
+

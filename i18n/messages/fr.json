@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "À propos",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Transformez Votre Business en Succès Numérique",
+    "subtitle": "Devoirs de Portfolio • Projets Informatiques • Recherche PhD • Préparation d'Entretien • Marketing Digital • Développement Web",
+    "cta": "Demander une Consultation Gratuite"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Services professionnels pour vous aider à réussir",
+    "viewDetails": "Voir les Détails"
+  },
+  "footer": {
+    "description": "Services professionnels pour les devoirs de portfolio, projets informatiques, recherche PhD, préparation d'entretien, marketing digital et développement web.",
+    "quickLinks": "Liens Rapides",
+    "services": "Services",
+    "contact": "Contact",
+    "copyright": "Tous droits réservés."
+  },
+  "about": {
+    "title": "À Propos de Nous",
+    "subtitle": "Votre partenaire de confiance pour les services professionnels"
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Contactez-nous",
+    "email": "Email",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Envoyer le Message"
+    }
+  }
+}
+

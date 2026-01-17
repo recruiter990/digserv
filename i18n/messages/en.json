@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Transform Your Business into Digital Success",
+    "subtitle": "Portfolio Assignments • Computer Projects • PhD Research • Interview Prep • Digital Marketing • Web Development",
+    "cta": "Request Free Consultation"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Professional services to help you succeed",
+    "viewDetails": "View Details"
+  },
+  "footer": {
+    "description": "Professional services for portfolio assignments, computer projects, PhD research, interview preparation, digital marketing, and web development.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "copyright": "All rights reserved."
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Your trusted partner for professional services"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us",
+    "email": "Email",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  }
+}
+
